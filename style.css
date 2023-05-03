@@ -1,0 +1,43 @@
+.age-calculator {
+    max-width: 400px;
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+    border: 2px solid #866c6c;
+    border-radius: 10px;
+  }
+  
+  h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+    color: #5b1cad;
+  }
+  
+  label {
+    font-size: 1.2em;
+  }
+  
+  input {
+    margin: 10px;
+    padding: 10px;
+    font-size: 1.2em;
+    border: 2px solid #866c6c;
+    border-radius: 10px;
+  }
+  
+  button {
+    margin: 10px;
+    padding: 10px;
+    font-size: 1.2em;
+    border: none;
+    border-radius: 10px;
+    background-color: #ff7b00;
+    color: #5b1cad;
+    cursor: pointer;
+  }
+  
+  #result {
+    font-size: 1.5em;
+    margin-top: 20px;
+  }
+  
